@@ -1,2 +1,4 @@
 
 https://raw.githubusercontent.com/PeteSnow/LegendsQField/3d1adba5fb6a13192d78713df97f2ee1af98717d/flood_legend_ES_simple.png
+
+https://raw.githubusercontent.com/PeteSnow/LegendsQField/2d7a369df599028305f10b7334eb5210cc7cac43/subseasonaloutlookGloFAS2.png
