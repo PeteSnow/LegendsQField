@@ -4,3 +4,5 @@ https://raw.githubusercontent.com/PeteSnow/LegendsQField/3d1adba5fb6a13192d78713
 https://raw.githubusercontent.com/PeteSnow/LegendsQField/2d7a369df599028305f10b7334eb5210cc7cac43/subseasonaloutlookGloFAS2.png
 
 https://raw.githubusercontent.com/PeteSnow/LegendsQField/blob/1daf6a433044e4e6743cab2f14a6649cd4257731/elevation_legend.png
+
+https://raw.githubusercontent.com/PeteSnow/LegendsQField/blob/35c824a613a8a2ad8280b82c10bfc8dbadcd36bd/S2WI_legend_simple.png
